@@ -11,3 +11,4 @@ http://proquest.safaribooksonline.com/book/programming/javascript/9780133844351/
 
 The original code is here
 https://github.com/bwdbooks/nodejs-mongodb-angularjs-web-development/tree/master/ch26
+# planner
